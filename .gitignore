@@ -15,7 +15,7 @@ env/
 .env
 
 # Runtime experiment log (regenerated each run)
-agentic-ml-lab/experiments.json
+experiments.json
 
 # OS / editor cruft
 .DS_Store
